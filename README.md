@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Garv-com/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Garv-com/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Garv-com/DSA/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Garv-com/DSA/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Garv-com/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Garv-com/DSA/tree/master/0496-next-greater-element-i) |
 | [2596-check-knight-tour-configuration](https://github.com/Garv-com/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -76,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Garv-com/DSA/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Garv-com/DSA/tree/master/0054-spiral-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/Garv-com/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Garv-com/DSA/tree/master/0054-spiral-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/Garv-com/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## String
 |  |
