@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Garv-com/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Garv-com/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Garv-com/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Garv-com/DSA/tree/master/0037-sudoku-solver) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Garv-com/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Garv-com/DSA/tree/master/0027-remove-element) |
 | [0876-middle-of-the-linked-list](https://github.com/Garv-com/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Garv-com/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Garv-com/DSA/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/Garv-com/DSA/tree/master/0131-palindrome-partitioning) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Garv-com/DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
