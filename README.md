@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Garv-com/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Garv-com/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Garv-com/DSA/tree/master/0496-next-greater-element-i) |
+| [2596-check-knight-tour-configuration](https://github.com/Garv-com/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +53,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Garv-com/DSA/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Garv-com/DSA/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Garv-com/DSA/tree/master/2596-check-knight-tour-configuration) |
+## Matrix
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Garv-com/DSA/tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Garv-com/DSA/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
