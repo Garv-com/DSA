@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Garv-com/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Garv-com/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Garv-com/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Garv-com/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Garv-com/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Garv-com/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Garv-com/DSA/tree/master/0027-remove-element) |
 | [0876-middle-of-the-linked-list](https://github.com/Garv-com/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -96,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Garv-com/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Garv-com/DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
