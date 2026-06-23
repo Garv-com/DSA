@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Garv-com/DSA/tree/master/0027-remove-element) |
+| [0876-middle-of-the-linked-list](https://github.com/Garv-com/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Garv-com/DSA/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Garv-com/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
