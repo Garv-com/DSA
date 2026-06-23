@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Garv-com/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Garv-com/DSA/tree/master/0027-remove-element) |
 | [0443-string-compression](https://github.com/Garv-com/DSA/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Garv-com/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Garv-com/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Garv-com/DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Garv-com/DSA/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/Garv-com/DSA/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Garv-com/DSA/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Garv-com/DSA/tree/master/0131-palindrome-partitioning) |
 | [0443-string-compression](https://github.com/Garv-com/DSA/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Garv-com/DSA/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Garv-com/DSA/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Garv-com/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
