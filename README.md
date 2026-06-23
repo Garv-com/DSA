@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Garv-com/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Garv-com/DSA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Garv-com/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Garv-com/DSA/tree/master/0204-count-primes) |
 ## Array
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Garv-com/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Garv-com/DSA/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
