@@ -5,7 +5,6 @@ public:
         int n=height.size();
         int l=0, r=n-1;
         int lmax=0, rmax=0;
-        stack<int> s;
 
         while(l<r){
             lmax = max(lmax, height[l]);
