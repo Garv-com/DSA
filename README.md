@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Garv-com/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Garv-com/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Garv-com/DSA/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Garv-com/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Garv-com/DSA/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Garv-com/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
 | ------- |
