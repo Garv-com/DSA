@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Garv-com/DSA/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Garv-com/DSA/tree/master/0572-subtree-of-another-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Garv-com/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -225,8 +226,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Garv-com/DSA/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Garv-com/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Garv-com/DSA/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Garv-com/DSA/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Garv-com/DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Garv-com/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
